@@ -1,4 +1,4 @@
-package sample;
+package com.jellybeanci;
 
 public class Controller {
 }
